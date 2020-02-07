@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "datascience",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "port": "5432"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "datascience",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "1q2w3e4r5t6y",
+    "database": "test_data_science",
+    "host": "34.66.52.149",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
